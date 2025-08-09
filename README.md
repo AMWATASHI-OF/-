@@ -10,3 +10,10 @@
 
 ```ts
 import { eres } from 'watashi'
+## `𝐵𝐼𝐸𝑁𝑉𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙`
+
+<a href="https://github.com/AMWATASHI-OF">
+  <img src="media/avatar.png" width="250" height="250" alt="Evelyn avatar" style="border-radius:50%;" />
+</a>
+
+`❦(๑¯◡¯๑) 𝐶ó𝑚𝑒 𝑐ó𝑑𝑖𝑔𝑜, 𝑐𝑎𝑜𝑠 𝑦 𝑐𝑎𝑡𝑎𝑟𝑠𝑖𝑠`
