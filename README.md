@@ -4,7 +4,7 @@
 
 <div align="center" style"border-radius:10px">
       <a href="#">
-        <img src="./menus/menu2.gif" />
+ 
     </a>
 </div>
 
