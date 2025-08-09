@@ -10,7 +10,7 @@
 
 ```ts
 ## `𝐵𝐼𝐸𝑵𝑽𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 `
-<a href="https://github.com/AMWATASHI-OF"><img src="https://github.com/Dioneibi-rip.png" width="250" height="250" alt="Wilsmac"/></a>
+<a href="https://github.com/AMWATASHI-OF"><img src="https://github.com/AMWATASHI-OF.png" width="250" height="250" alt="Wilsmac"/></a>
   
 `❦(๑¯◡¯๑) Código, caos y catarsis``  
 
