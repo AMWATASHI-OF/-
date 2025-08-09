@@ -10,7 +10,8 @@
 
 ```ts
 ## `𝐵𝐼𝐸𝑵𝑽𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 `
-<a href="https://github.com/AMWATASHI-OF"><img src="https://github.com/AMWATASHI-OF.png" width="250" height="250" alt="Wilsmac"/></a>
+<a href="https://github.com/AMWATASHI-OF"><<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/64bf9cd5-5233-4d9f-a78c-5ca884bdf008" />
+
   
 `❦(๑¯◡¯๑) Código, caos y catarsis``  
 
@@ -19,3 +20,4 @@ href="https://api.whatsapp.com/send/?phone=991055096&text=𝙝𝙤𝙡𝙖,%20�
 
 
 <p align="center">
+
